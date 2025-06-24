@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icon.ico</file>
+    </qresource>
+    <qresource prefix="/folder">
+        <file>folder.png</file>
+    </qresource>
+    <qresource prefix="/cross">
+        <file>cross.png</file>
+    </qresource>
+</RCC>
